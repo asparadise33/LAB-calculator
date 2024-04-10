@@ -1,8 +1,68 @@
+body {
+  
+}
 
 .container {
-  width: 400px;
-  border: 25px solid black;
-  padding: 50px;
-  margin: 20px;
+ width: 400px;
+  font-family: monospace;
+  display: flex;
+  flex-flow: wrap;
+  border: 3px solid black;
+  padding: 10px;
+  
+}
 
+.main {
+  padding: 
+}
+.clear {
+  padding: 
+}
+.arrow {
+  padding: 
+}
+.boxdivide {
+  padding: 
+}
+.num7 {
+ padding:
+}
+.num8 {
+ padding: 
+}
+.num9 {
+ padding:  
+}
+.boxmultiply {
+ padding: 
+}
+.num4 {
+ padding: 
+}
+.num5 {
+ padding: 
+}
+.num6 {
+ padding: 
+}
+.boxsubtract {
+ padding: 
+}
+.num1 {
+padding: 
+}
+.num2 {
+padding: 
+}
+.num3 {
+padding: 
+}
+.boxadd {
+padding: 
+}
+.num0 {
+padding: 
+}
+.boxequal{
+padding: 
 }
