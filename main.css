@@ -1,68 +1,99 @@
-body {
-  
-}
-
 .container {
- width: 400px;
-  font-family: monospace;
-  display: flex;
-  flex-flow: wrap;
-  border: 3px solid black;
-  padding: 10px;
-  
+width: 400px;
+font-family: monospace;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-between;
+border: 3px solid black;
 }
 
-.main {
-  padding: 
+#display{
+  padding: 15px;
+  color:white
+
 }
-.clear {
-  padding: 
+#clear {
+  padding: 15px;
+  color: black;
 }
-.arrow {
-  padding: 
+
+#arrow {
+  padding: 15px;
+  color: black;
 }
-.boxdivide {
-  padding: 
+
+#divide {
+  padding: 15px;
+  color: white;
 }
-.num7 {
- padding:
+
+#num7 {
+  padding: 15px;
+  color: black;
 }
-.num8 {
- padding: 
+
+#num8 {
+  padding: 15px;
+  color: black;
 }
-.num9 {
- padding:  
+
+#num9 {
+  padding: 15px;
+  color: black;
 }
-.boxmultiply {
- padding: 
+
+#multiply {
+  padding: 15px;
+  color: white;
 }
-.num4 {
- padding: 
+
+#num4 {
+  padding: 15px;
+  color: black;
 }
-.num5 {
- padding: 
+
+#num5 {
+  padding: 15px;
+  color: black;
 }
-.num6 {
- padding: 
+
+#num6 {
+  padding: 15px;
+  color: black;
 }
-.boxsubtract {
- padding: 
+
+#subtract {
+  padding: 15px;
+  color: white;
 }
-.num1 {
-padding: 
+
+#num1 {
+  padding: 15px;
+  color: black;
 }
-.num2 {
-padding: 
+
+#num2 {
+  padding: 15px;
+  color: black;
 }
-.num3 {
-padding: 
+
+#num3 {
+  padding: 15px;
+  color: black;
 }
-.boxadd {
-padding: 
+
+#add {
+  padding: 15px;
+  color: white;
 }
-.num0 {
-padding: 
+
+#num0 {
+  padding: 15px;
+  color: black;
 }
-.boxequal{
-padding: 
+
+#equals {
+  padding: 15px;
+  color: white;
 }
